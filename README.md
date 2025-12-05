@@ -31,5 +31,7 @@ Database System: SQLite Database , MySQL , TTK Widgets
 If you have any questions or feedback, please reach out!
  
 Bharath Kumar - https://github.com/Bharathkumar1123542
-Karthik Ravipati - 
-Sahil Pundpal - 
+
+Karthik Ravipati - https://github.com/karthik7-git
+
+Sahil Pundpal - https://github.com/saahilpundpal-netizen
